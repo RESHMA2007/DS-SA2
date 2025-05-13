@@ -1,7 +1,5 @@
 # DS-SA2
-![Screenshot 2025-05-12 181448](https://github.com/user-attachments/assets/9ee2656e-cee7-42e5-8cdd-56c25dd4c5c4)
-![Screenshot 2025-05-12 182325](https://github.com/user-attachments/assets/3ad210c8-348e-4b9b-b7f7-c193476fb128)
-![Screenshot 2025-05-12 190120](https://github.com/user-attachments/assets/df6a9033-d80d-4bb4-8df3-49081e08fdc8)
+
 ![Screenshot 2025-05-13 100700](https://github.com/user-attachments/assets/3f2600c3-4ea7-4ec8-8afe-87d0d81729f0)
 ![Screenshot 2025-05-13 100814](https://github.com/user-attachments/assets/f66a0474-a97b-448b-8d9e-cf334fb1aac3)
 ![Screenshot 2025-05-13 100829](https://github.com/user-attachments/assets/f781b06a-35a0-4c8b-98b5-15e08e90a3d6)
